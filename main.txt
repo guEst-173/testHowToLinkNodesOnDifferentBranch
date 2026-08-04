@@ -3,3 +3,4 @@ A again
 branch B 1 commit
 
 A 1 commit
+B 1 commit
