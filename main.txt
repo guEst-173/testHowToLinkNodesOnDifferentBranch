@@ -1,4 +1,1 @@
-add branch A
-main merge A and A merge main
-A merged main and push A
-add
+branch A 1 commit
